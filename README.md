@@ -94,4 +94,6 @@ a estrutura fica assim
 ```
 <br>
 
+<a href="https://tiphy.github.io/html/">como esta ficando</a>
+
 por enquanto é isso, vou ir acrescentando mais coisas ao longo do tempo, como botões e alguns efeitos legais, qualquer dúvida é só mandar msg, estou sempre disponível só para vc ☆⌒(*＾-゜)v
