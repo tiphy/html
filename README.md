@@ -1,6 +1,6 @@
 # oi meu amor!! 🥰
 
-vamos começar a tirar todas as suas duvidas sobre html e as suas tags ;) <br>
+vamos começar a tirar todas as suas duvidas sobre html e as suas tags <br>
 
 vamos começar pelo basico <br>
 
@@ -20,7 +20,7 @@ h1 <br>
 #
 
  p <br>
-* representa um paragrafo, o corpo de uma redação, o desenvolvimento, vc vai usar em td oq nao for titulo ¯\_(ツ)_/¯ <br>
+* representa um paragrafo, o corpo de uma redação, o desenvolvimento, vc vai usar em td oq nao for titulo ¯ \_(ツ)_/¯ <br>
 
 #
 
@@ -31,21 +31,44 @@ h1 <br>
 
  ol <br> <br>
  é uma lista ordenada, uma lista que segue "passos" ela adiciona um numero antes do item, é uma lista usada em reseita de bolo <br>
-⌍bolinho 🍰⌎ <br>
+```
+    <p> bolinho 🍰 </p>
+    <ol>
+        <li> corta a cenoura em rodelas </li>
+        <li> coloca no liquidificador junto com os outros ingredientes </li>
+        <li> quando ficar homogeneo, adicione aos poucos na farinnha de trigo </li>
+        <li> forno à 180 ° por 40 min </li>
+    </ol>
+```
+<br> <br>
+
 1. corta a cenoura em rodelas <br> 
 2. coloca no liquidificador junto com os outros ingredientes <br>
 3. quando ficar homogeneo, adicione aos poucos na farinnha de trigo <br>
 4. forno à 180 ° por 40 min
-<br> <br>
 
 #
 
  ul
 * tambem é uma lista mas só que alcontrario da tag (ol), ele adiciona um pontinho ● antes da palavra da lista <br>
+```
+    <p>carros que acho bonito 🚗</p>
+    <ul>
+        <li>ram rampage</li>
+        <li>dodge challenger</li>
+        <li>bmw alpina e9</li>
+        <li>delorean dmc 12</li>
+    </ul>
+```
+
+
+
 ⌍carros que eu acho bonitos 🚗⌎  <br>
 ● ram rampage <br>
 ● dodge challenger <br>
 ● bmw alpina e9 <br>
 ● delorean dmc 12 <br>
+
+
 <br><br>
 por enquanto é isso, vou ir acrescentando mais coisas ao longo do tempo, como botões e alguns efeitos legais, qualquer dúvida é só mandar msg, estou sempre disponível só para vc ☆⌒(*＾-゜)v
