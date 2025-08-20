@@ -1,10 +1,8 @@
-##  oi meu amor!! 🥰
-
+### Oi meu amor!! 🥰
+---
 vamos começar a tirar todas as suas duvidas sobre html e as suas tags <br>
 vamos começar pelo basico <br>
-
-
-#
+<br>
 
 ### **html** <br>
 é a estrutura principal de uma página web. <br>
@@ -29,7 +27,7 @@ aqui ficam: textos, imagens, vídeos, links, tabelas, botões e tudo o que será
 
 
 a estrutura fica assim 
-```
+```html
    <!DOCTYPE html>
    <html lang="pt-br">
    <head>
@@ -43,12 +41,12 @@ a estrutura fica assim
    </html>
 ```
 
-#
+
 
 ### **h1** <br>
 * são títulos/heading tags que definem a hierarquia de conteúdo em uma página, <br>
  temos tbm vários tipos de tamanhos de titulos, temos tamanhos que vao de h1 ↑ , que é o mais importante até h6 ↓ , sendo o h6 o menos, são usados para subtitulos <br>
-```
+```html
     <h1> título principal da página ou do artigo (idealmente um por página) </h1>
     <h2> seções principais do conteúdo </h2>
     <h3> subseções dentro de um h2 </h3>
@@ -56,7 +54,7 @@ a estrutura fica assim
     <h5> detalhes </h5>
     <h6> e mais detalhes </h6>
 ```
-#
+
 
  ### **p** <br>
 * representa um paragrafo, o corpo de uma redação, o desenvolvimento, vc vai usar em td oq nao for titulo ¯ \_(ツ)_/¯ <br>
@@ -70,7 +68,7 @@ a estrutura fica assim
 
  ### **ol** <br>
  é uma lista ordenada, uma lista que segue "passos" ela adiciona um numero antes do item, é uma lista usada em reseita de bolo <br>
-```
+```html
     <p> bolinho 🍰 </p>
     <ol>
         <li> corta a cenoura em rodelas </li>
@@ -79,13 +77,13 @@ a estrutura fica assim
         <li> forno à 180 ° por 40 min </li>
     </ol>
 ```
-<br> <br>
 
-#
+
+
 
  ### **ul**
 * tambem é uma lista mas só que alcontrario da tag (ol), ele adiciona um pontinho ● antes da palavra da lista <br>
-```
+```html
     <p>carros que acho bonito 🚗</p>
     <ul>
         <li>ram rampage</li>
@@ -94,6 +92,6 @@ a estrutura fica assim
         <li>delorean dmc 12</li>
     </ul>
 ```
+<br>
 
-<br><br>
 por enquanto é isso, vou ir acrescentando mais coisas ao longo do tempo, como botões e alguns efeitos legais, qualquer dúvida é só mandar msg, estou sempre disponível só para vc ☆⌒(*＾-゜)v
