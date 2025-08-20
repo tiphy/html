@@ -1,7 +1,7 @@
 ### Oi meu amor!! 🥰
 ---
-vamos começar a tirar todas as suas duvidas sobre html e as suas tags <br>
-vamos começar pelo basico <br>
+vamos começar a tirar todas as suas duvidas sobre `html` e as suas tags <br>
+vamos começar pelo básico <br>
 <br>
 
 ### **html** <br>
@@ -45,7 +45,7 @@ a estrutura fica assim
 
 ### **h1** <br>
 * são títulos/heading tags que definem a hierarquia de conteúdo em uma página, <br>
- temos tbm vários tipos de tamanhos de titulos, temos tamanhos que vao de h1 ↑ , que é o mais importante até h6 ↓ , sendo o h6 o menos, são usados para subtitulos <br>
+ temos tbm vários tipos de tamanhos de titulos, temos tamanhos que vao de `h1` ↑ , que é o mais importante, até `h6` ↓ , sendo o h6 o menos importante, são usados para subtitulos <br>
 ```html
     <h1> título principal da página ou do artigo (idealmente um por página) </h1>
     <h2> seções principais do conteúdo </h2>
@@ -57,12 +57,12 @@ a estrutura fica assim
 
 
  ### **p** <br>
-* representa um paragrafo, o corpo de uma redação, o desenvolvimento, vc vai usar em td oq nao for titulo ¯ \_(ツ)_/¯ <br>
+* representa um paragrafo, o corpo de uma redação, o desenvolvimento, vc vai usar em td oq nao for titulo ¯\_(ツ)_/¯ <br>
 
 #
 
  ### **li** <br>
-* ele serve para arrumar a lista, tem sempre que estar dentro de uma tag (ol) ou (ul) <br>
+* ele serve para arrumar a lista, tem sempre que estar dentro de uma tag `<ol></ol> `ou `<ul></ul>` <br>
 
 #
 
@@ -82,7 +82,7 @@ a estrutura fica assim
 
 
  ### **ul**
-* tambem é uma lista mas só que alcontrario da tag (ol), ele adiciona um pontinho ● antes da palavra da lista <br>
+* tambem é uma lista mas só que alcontrario da tag `<ol></ol>`, ele adiciona um pontinho ● antes da palavra da lista <br>
 ```html
     <p>carros que acho bonito 🚗</p>
     <ul>
